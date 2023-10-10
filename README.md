@@ -24,9 +24,7 @@ In this repository, you will find Jupyter Notebook files that demonstrate variou
 
 These visualizations and analyses will help uncover patterns, trends, and characteristics of exoplanets.
 
-## Usage
 
-Feel free to use the provided Jupyter Notebook files as a reference for your own data analysis projects or as a learning resource for data visualization using Python and Seaborn.
 
 ## Getting Started
 
